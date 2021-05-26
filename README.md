@@ -33,11 +33,20 @@ sio2.tw/lazy/](https://www.webpagetest.org/result/191113_1Q_81dbefe72ed7b804591b
 
 
 ## 測速截圖
-WebPageTest 結果
-![image](https://user-images.githubusercontent.com/49493665/68730106-bb4a4a80-0606-11ea-9247-84a8a29b44f6.png)
-Pagespeed 
+
+### pagespeed 還未修改前
+
+![手機板](https://user-images.githubusercontent.com/49493665/119597644-0e17db80-be14-11eb-95c3-856d22747378.png)
+![電腦版](https://user-images.githubusercontent.com/49493665/119597563-e3c61e00-be13-11eb-83eb-f4b7f6c84628.png)
+
+### Pagespeed 優化後 
 ![image](https://user-images.githubusercontent.com/49493665/68730178-e6349e80-0606-11ea-9e25-dfc4feac16d9.png)
 ![image](https://user-images.githubusercontent.com/49493665/68730237-10865c00-0607-11ea-90ae-cf7ccc927474.png)
+
+WebPageTest 結果
+![image](https://user-images.githubusercontent.com/49493665/68730106-bb4a4a80-0606-11ea-9247-84a8a29b44f6.png)
+
+
 
 
 
